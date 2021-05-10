@@ -1,2 +1,0 @@
-(this["webpackJsonpportafolio-digital"]=this["webpackJsonpportafolio-digital"]||[]).push([[0],{9:function(t,e,o){"use strict";o.r(e);var i=o(1),n=o.n(i),r=o(3),c=o.n(r),a=o(0);var s=function(){return Object(a.jsx)("h1",{children:"Hola"})};c.a.render(Object(a.jsx)(n.a.StrictMode,{children:Object(a.jsx)(s,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.0c04d238.chunk.js.map
